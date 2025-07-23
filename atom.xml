@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://yoursite.com</id>
-    <title>Swa的博客</title>
+    <title>Saw的博客</title>
     <subtitle>𝑪𝒊𝒂𝒍𝒍𝒐～(∠・ω﹤)⌒★</subtitle>
     <icon>http://yoursite.com/images/favicon.ico</icon>
     <link href="http://yoursite.com" />
@@ -9,8 +9,7 @@
       <name>Saw</name>
     </author>
     <updated>2025-07-21T09:23:40.000Z</updated>
-    <category term="关键词1" />
-    <category term="关键词2" />
+    <category term="saw" />
     <entry>
         <id>http://yoursite.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</id>
         <title>测试文章</title>

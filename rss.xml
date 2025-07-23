@@ -1,19 +1,18 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Swa的博客</title>
+        <title>Saw的博客</title>
         <subtitle>𝑪𝒊𝒂𝒍𝒍𝒐～(∠・ω﹤)⌒★</subtitle>
         <icon>http://yoursite.com/images/favicon.ico</icon>
         <link>http://yoursite.com</link>
         <author>
           <name>Saw</name>
         </author>
-        <description>一个懒散的人</description>
+        <description>寻找有意义且有趣的事</description>
         <language>zh-CN</language>
         <pubDate>Mon, 21 Jul 2025 17:23:40 +0800</pubDate>
         <lastBuildDate>Mon, 21 Jul 2025 17:23:40 +0800</lastBuildDate>
-        <category term="关键词1" />
-        <category term="关键词2" />
+        <category term="saw" />
         <item>
             <guid isPermalink="true">http://yoursite.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
             <title>测试文章</title>
